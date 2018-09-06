@@ -8,11 +8,6 @@ https://github.com/julesontheroad/-XCI-Batch-Builder-
 ADVICE: FOR ALL TO WORK CORRECTLY DON'T USE SPACES IN FOLDER'S NAME.
 
 ---------------
-0. Changelog
----------------
-v0.1 - First official git release
-
----------------
 1. Description
 ---------------
 XCI-Batch-Builder is a batch processor for XCI_Builder and NX-Trimmer. 
