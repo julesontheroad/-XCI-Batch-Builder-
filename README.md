@@ -1,7 +1,5 @@
 # -XCI-Batch-Builder-
-*****************
-XCI Batch Builder(v0.1)
-*****************
+
 Made by JulesOnTheRoad
 https://github.com/julesontheroad/-XCI-Batch-Builder-
 
