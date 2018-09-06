@@ -10,13 +10,11 @@ ADVICE: FOR ALL TO WORK CORRECTLY DON'T USE SPACES IN FOLDER'S NAME.
 ---------------
 0. Changelog
 ---------------
-
 v0.1 - First official git release
 
 ---------------
 1. Description
 ---------------
-
 XCI-Batch-Builder is a batch processor for XCI_Builder and NX-Trimmer. 
 It can take single nsp files or xci files and redirect them to XCI_Builder or to NX-Trimmer.
 Depending on the type of file it'll redirect the files to one or the other. 
@@ -47,7 +45,6 @@ https://gbatemp.net/threads/a-simple-xci-nca-nsp-extracting-batch-file-just-drag
 ---------------
 2. Requirements
 ---------------
-
 - A computer with a Window's OS is needed
 - You'll need to have the NX-Trimmer and/or XCI_builder files in the same folder. Release pack in
 github has all preconfigured.
@@ -58,7 +55,6 @@ github has all preconfigured.
 -------------------------
 3. Use of the application
 -------------------------
-
 I.-   Just drag an xci file, an nsp file or a folder with any combination of xci or nsp files.
       Program will launch instances of XCI_Builder or NX-Trimmer accordingly
 II.-  Remember you'll need to have keys.txt filled in advance and it won't process subfolders.
@@ -71,7 +67,6 @@ III.- You can set XCI_Builder or NX-Trimmer in two configurations for each of th
 --------------
 4. Limitations
 --------------
-
 I.-   Current version won't process subfolders.
 II-   Current version won't let you choose output folder. Output folder we'll be set in the root of the
       program folder.
@@ -83,7 +78,6 @@ III-  It's un likely but if you try to process nsp base game and update look at 
 ------------------------
 5. Thanks and credits to 
 ------------------------
-
 LucaFraga, SciresM and CVFireDragon 
 Bigjokker from gbatemp for the advices about cleaning echos in Batch files.
 Also thanks to all members from gbatemp, elotrolado.net and my friends at discord ;)
